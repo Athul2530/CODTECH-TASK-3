@@ -41,5 +41,5 @@ Customer Segmentation Using KMeans Clustering
 - matplotlib & seaborn: For data visualization.
 
 
-![image alt]([image_url](https://github.com/Athul2530/CODTECH-TASK-3/blob/main/Screenshot%202024-09-16%20144651.png?raw=true))
+
 
