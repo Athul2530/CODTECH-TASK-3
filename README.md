@@ -31,9 +31,7 @@ Customer Segmentation Using KMeans Clustering
 
 ## Dataset
 
-- Source: Customer Data (Example link, replace with actual dataset link if different)
-- Features:Annual income and spending score
-- Example Data:Assume `customer_data` DataFrame has columns where indices `[3, 4]` correspond to annual income and spending score.
+- Link:https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 ## Technologies Used
 
